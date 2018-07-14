@@ -24,6 +24,7 @@ html {
     background-color: #db008b;
   }
   nav {
+    width: 1000px;
       margin: 0 auto;
       /**Importante para el multinivel**/
       position: relative;
@@ -45,7 +46,7 @@ html {
       color: #ffffff;
       text-decoration: none;
       text-align: center;
-      padding: 20px;
+      padding: 20px 20px;
   }
   /**Resaltado Principal**/
   nav ul li a:hover {
